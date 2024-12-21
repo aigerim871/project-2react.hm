@@ -1,0 +1,45 @@
+/* .nike-container {
+  
+  gap: 20px;
+
+  width: 210px;
+  height: 200px;
+  border-radius: 40px;
+  margin: 20px;
+  display: flex;
+
+
+  flex-wrap: wrap;
+} */
+.nike-max {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 40px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  width: 170px;
+}
+.nike-img {
+  width: 160px;
+  height: 110px;
+  padding-right: 40px;
+}
+.nike-box {
+  text-align: center;
+}
+.nike-title {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  align-items: center;
+  color: rgba(0, 0, 0, 0.745);
+}
+.nike-text {
+  width: 80px;
+  height: 32px;
+  padding-top: 10px;
+  padding-left: 60px;
+  color: rgba(0, 0, 0, 0.522);
+}
